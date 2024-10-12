@@ -4,6 +4,12 @@
  - 목표: MCU와 L293D 모터 드라이버를 활용한 차량 구동.
  - 기반 기술: PWM(Pulse Width Modulation) 제어 방식 및 STM32 MCU를 사용하여 모터 속도와 방향 제어.
 
+### 결과 자료
+
+</br>
+<img src="/pic/driver_output.gif" width="40%" height="30%" title="opamp_1_off"></img></br>
+
+
 ### 개발 과정
  - `1`. 주파수 분주
  - `2`. PWM을 통한 속도 제어
