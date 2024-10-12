@@ -7,7 +7,7 @@
 ### 결과 자료
 
 </br>
-<img src="/pic/driver_output.gif" width="40%" height="30%" title="opamp_1_off"></img></br>
+<img src="/data/driver_output.gif" width="40%" height="30%" title="opamp_1_off"></img></br>
 
 
 ### 개발 과정
